@@ -8,6 +8,7 @@ authors:
     affiliation: "Northern Virginia Community College"
 type: software
 version: 1.0.0
+date-released: 2026-07-26
 license: MIT
 repository-code: "https://github.com/jacksonwalters/countable-atomless-boolean-algebra"
 keywords:
