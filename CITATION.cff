@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Countable Atomless Boolean Algebra"
+authors:
+  - family-names: "Walters"
+    given-names: "Jackson"
+    orcid: "https://orcid.org/0000-0002-5814-7393"
+    affiliation: "Northern Virginia Community College"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/jacksonwalters/countable-atomless-boolean-algebra"
+keywords:
+  - "Lean"
+  - "Boolean algebra"
+  - "Cantor algebra"
+  - "formal verification"
