@@ -1,4 +1,4 @@
-# formal-math-lean
+# Countable Atomless Boolean Algebra
 
 This is a collection of formalized math constructions and proofs in Lean.
 
